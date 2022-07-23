@@ -21,23 +21,26 @@ h1, h2, h3, h4, h5, h6 {
 /*Container*/
 .container {
     width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
     background-color: #191970;
 }
 
+.container_menu {
+    width: 35%;
+    float: left;
+    background-color: #333;
+}
+
+.container_content {
+    width: 65%;
+    float: left;
+    background-color: #333;
+}
+
 /*Header*/
-.header {
-   
-}
-
-
-.header_inner {
-
-}
-
-
 .header_logo {
     font-size: 50px;
-    text-align: center;
     color: #D3D3D3;
+    text-align: center;
 }
-
