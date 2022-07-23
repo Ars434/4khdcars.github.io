@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
     transition: 0.5s;
     animation: anim 4s linear infinite;
+    flex-direction: row;
 }
 
 .btn:hover {
