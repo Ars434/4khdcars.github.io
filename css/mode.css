@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 /*Container*/
 .container {
     width: 100%;
-    background-color: #19195a;
+    background-color: #19193c;
 }
 
 .container_menu {
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 /*Header*/
 .header_logo {
     font-size: 50px;
-    color: #A9A9A9;
+    color: #696969;
     text-align: center;
 }
 
