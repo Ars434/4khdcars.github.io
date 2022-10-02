@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 .container_content {
     width: 75%;
     float: left;
+    padding-top: 21.5px;
 }
 
 /*Header*/
@@ -109,7 +110,6 @@ h1, h2, h3, h4, h5, h6 {
 .images img {
     max-width: 30%;
     max-height: px;
-    padding-top: 28px;
     position: relative;
     margin: 0 0px 0px 10px;
 }
