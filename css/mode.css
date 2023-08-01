@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*Upload*/
-#upload-btn {
+.upload-btn {
     font-size: 14px;
     font-weight: 700;
     display: inline-block;
@@ -133,13 +133,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: background .1s linear, color .1s linear;
 }
 
-#upload-text {
-    font-family: sans-serif;
-    margin-left: 10px;
-    font-size: 15px;
-    color: #aaa;
-}
-
-#upload-btn label {
-    padding: 10px;
+.upload-btn:hover {
+    background-color: #fff;
+    color: #333
 }
