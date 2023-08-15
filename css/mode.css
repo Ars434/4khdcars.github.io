@@ -111,7 +111,8 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 30%;
     max-height: px;
     position: relative;
-    margin: 0 0px 0px 10px;
+    margin: 0 0px 10px 10px;
+    float: left;
 }
 
 
@@ -136,34 +137,6 @@ h1, h2, h3, h4, h5, h6 {
 .upload-btn:hover {
     background-color: #fff;
     color: #333
-}
-
-.konsekudag {
-  background-color: #0c6fa7;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100vw;
-  height: 100vh;
-}
-
-.krasivaya-knopka {
-  text-decoration: none;
-  font-size: 12px;
-  text-transform: uppercase;
-  display: inline-block;
-  border-radius: 50px;
-  background-color: #e8dede;
-  color: #1b9be2;
-  border: 2px solid #fbfbfb;
-  padding: 1rem 2rem;
-  font-weight: 900;
-  box-shadow: 0px 0px 12px 0px rgba(51, 47, 47, 0.48), 0px 0px 8px -15px rgba(255, 255, 255, 0.52);
-}
-
-.krasivaya-knopka:hover {
-  background: #05690d;
-  color: #fefffe;
 }
 
 .kanevalus {
